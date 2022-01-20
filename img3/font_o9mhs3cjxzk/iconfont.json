@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "833659",
+      "name": "acfun",
+      "font_class": "acfun",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}
